@@ -17,7 +17,7 @@ It shows a little bit shinier demo.
 * [examples/discoball.html](http://jeromeetienne.github.io/threex.cubecamera/examples/discoball.html)
 \[[view source](https://github.com/jeromeetienne/threex.cubecamera/blob/master/examples/discoball.html)\] :
 It shows a little bit shinier discoball. 
-TODO to port in its own demo. use the "minecraft goes party" from nextgamefrontier talk
+TODO to port in its own demo. use the "minecraft goes party" from nextgamefrontier talk.
 
 How To Install It
 =================
